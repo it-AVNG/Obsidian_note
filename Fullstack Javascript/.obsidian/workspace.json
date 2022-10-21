@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "928e9b46eb649ccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ad2508e22e71dae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0000fa0fdacf3a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundation/Beginning Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e5dc9b75d48ce53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundation/Specificity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f46ab63a4bb1ceb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundation/The Box Model/FlexBox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c3f1b4b1f037a74",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed72a58d63448ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a76f2e348ef577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a53de129e1f4767",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d68ca87e90994ee3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "3f11c99f3c22164b",
+    "type": "split",
+    "children": [
+      {
+        "id": "af50ac7b3cc0ea69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b03447d4641b5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Foundation/The Box Model/FlexBox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c198af230a819f3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Foundation/The Box Model/FlexBox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e2f7b574d34815b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71b658c366b341a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Foundation/The Box Model/FlexBox.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f46ab63a4bb1ceb6",
+  "lastOpenFiles": [
+    "Foundation/The Box Model/Block and inline.md",
+    "Foundation/The Box Model/FlexBox.md",
+    "Foundation/The Box Model/Normalflow.md",
+    "Foundation/Specificity.md",
+    "Foundation/Beginning Properties.md",
+    "Foundation/Selectors.md",
+    "Farm-to-cup.md",
+    "Foundation/Inspecting a Webpage/View and change CSS.md",
+    "Excercise/Excercise 06.md",
+    "Excercise/Excercise 05.md"
+  ]
+}
