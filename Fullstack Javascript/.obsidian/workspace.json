@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "3f11c99f3c22164b",
@@ -165,7 +166,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f46ab63a4bb1ceb6",
+  "active": "d1a76f2e348ef577",
   "lastOpenFiles": [
     "Foundation/The Box Model/Block and inline.md",
     "Foundation/The Box Model/FlexBox.md",
