@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5ad2508e22e71dae",
+        "id": "e5e964ea9c64ca49",
         "type": "tabs",
         "children": [
           {
-            "id": "0000fa0fdacf3a02",
+            "id": "7f7bbb333bca3c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation/Beginning Properties.md",
+                "file": "Excercise/Margin-padding/Excercise 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e5dc9b75d48ce53",
+            "id": "6ee678c9d6fa0f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation/Specificity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f46ab63a4bb1ceb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundation/The Box Model/FlexBox.md",
+                "file": "Excercise/Margin-padding/Excercise 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "right": {
     "id": "3f11c99f3c22164b",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundation/The Box Model/FlexBox.md",
+                "file": "Excercise/Margin-padding/Excercise 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundation/The Box Model/FlexBox.md",
+                "file": "Excercise/Margin-padding/Excercise 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundation/The Box Model/FlexBox.md"
+                "file": "Excercise/Margin-padding/Excercise 2.md"
               }
             }
           }
@@ -166,17 +153,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d1a76f2e348ef577",
+  "active": "6ee678c9d6fa0f1c",
   "lastOpenFiles": [
-    "Foundation/The Box Model/Block and inline.md",
-    "Foundation/The Box Model/FlexBox.md",
     "Foundation/The Box Model/Normalflow.md",
-    "Foundation/Specificity.md",
-    "Foundation/Beginning Properties.md",
-    "Foundation/Selectors.md",
-    "Farm-to-cup.md",
-    "Foundation/Inspecting a Webpage/View and change CSS.md",
-    "Excercise/Excercise 06.md",
-    "Excercise/Excercise 05.md"
+    "Foundation/The Box Model/FlexBox.md",
+    "Foundation/The Box Model/Block and inline.md",
+    "Foundation/The Box Model/The Box by webDev Simplified.md",
+    "Foundation/The Box Model/Writing mode.md",
+    "Excercise/Margin-padding/Excercise 2.md",
+    "Excercise/Margin-padding/Excercise 1.md",
+    "Excercise/Foundation_excercise/Excercise 05.md",
+    "Excercise/Foundation_excercise/Excercise 03.md",
+    "Foundation/Beginning Properties.md"
   ]
 }

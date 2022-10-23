@@ -155,3 +155,87 @@ margin-left: 20px;
 ```
 
 ### Cross axis and vertical alignment
+`justify-content` helps us align the container and its item in horizontal; for veritical, we use `align-items`.
+Check the [reference](https://cssreference.io/property/align-items/) for the properties of the align-items.
+
+### Wrapping flex items
+when extra Items does not fit with our alignment horizontaly and vertically, sometime they would ascrewed our screen, thus `flex-warp: warp` to the rescue.
+the propert will pump the extra itmes to another row.
+
+### Flex conainer direction:
+"Directions" refers to whether a container renders its items horizintally or vertically. All container is default in horizontal direction. 
++ `flex-direction: row;` means direction of the flex is laid out in a line until they reach the ends
++ `flex-firection: column;` means the items are stacked.
+
+The `flex-direction`also offers controlling the order which items appear via row-reverse or column-reverse property.  
+
+### alignment consideration:
+When we rotate an flexbox element, we also rotate its alignment. In order to properly center the div, it is a good practice to add `justify-content` and `align-items` properly.
+
+### Adding order to flex items
+`order` helps arranging items order in the flex container, the lower the number, the higher the order. 
+The default order is the order inwhich they are added in the source file html.
+
+### Flex item alignment
+`align-self` helps overwrite value sets be containers for specific Items inside the flex container.
+Some value we can adapt to our design:
++ center
++ flex-start (top)
++ flex-end (bottom)
++ strech
++ baseline
+
+### Flexible Items
+
+Flex items are, well, *flexible*. Each Items can have a flexible width, grow, distribution. Let consider a footer as follow
+
+```html
+<footer>
+	<div class="footer-item footer-oner"></div>
+	<div class="footer-item footer-two"></div>
+	<div class="footer-item footer-three"></div>
+</footer>
+
+```
+
+with css style
+
+```css
+.footer-item{
+	border: 1px solid white;
+	background-color: #D6E9FE;
+	height: 200px;
+	flex: 1;
+}
+```
+
+The `flex` is a consituent properties shor hand for
++ flex-grow
++ flex-shrink
++ flex-basis
+
+The `flex: 1` tells the items to stretch to match the width of the `.footer` since they all have the same weight, they will strecht equally
+
+If, one of the item has `flex: 2`, it means they have grow factor equal to twice the grow factor of other element.
+
+`flex` distribute the free space into the element while `justify-content` distribute space between the items.
+
+We can also manipulate the distribution with flex property.
+Examples:
+```css
+.footer-three,
+
+.footer-one{
+
+background-color: #5995da;
+
+flex: initial;
+
+width: 300px;
+
+}
+```
+
+### Flex items auto-margins
+With margin setting such as `margin-left: auto;` or `margin: auto` the margin will eats and distribute the available margin as specified. 
+Setting the `margin` property on a flex child will push the child away from that direction. Set `margin-left` to `auto`, the child will push right. Set `margin-top` to `auto` and the child will push to the bottom.
