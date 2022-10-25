@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e964ea9c64ca49",
+        "id": "5b98a9936d5939da",
         "type": "tabs",
         "children": [
           {
-            "id": "7f7bbb333bca3c63",
+            "id": "f54f30c3784fbcb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excercise/Margin-padding/Excercise 1.md",
+                "file": "Excercise/Flexbox/03-flex-header-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ee678c9d6fa0f1c",
+            "id": "0b39698846f0d908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excercise/Margin-padding/Excercise 2.md",
+                "file": "Excercise/Flexbox/04-flex information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a681afaf7e86defa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excercise/Flexbox/05-flex modal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excercise/Margin-padding/Excercise 2.md",
+                "file": "Excercise/Flexbox/05-flex modal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excercise/Margin-padding/Excercise 2.md",
+                "file": "Excercise/Flexbox/05-flex modal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excercise/Margin-padding/Excercise 2.md"
+                "file": "Excercise/Flexbox/05-flex modal.md"
               }
             }
           }
@@ -153,17 +165,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6ee678c9d6fa0f1c",
+  "active": "a681afaf7e86defa",
   "lastOpenFiles": [
-    "Foundation/The Box Model/Normalflow.md",
-    "Foundation/The Box Model/FlexBox.md",
-    "Foundation/The Box Model/Block and inline.md",
-    "Foundation/The Box Model/The Box by webDev Simplified.md",
+    "Excercise/Flexbox/04-flex information.md",
+    "Excercise/Flexbox/05-flex modal.md",
+    "Excercise/Flexbox/03-flex-header-2.md",
     "Foundation/The Box Model/Writing mode.md",
-    "Excercise/Margin-padding/Excercise 2.md",
-    "Excercise/Margin-padding/Excercise 1.md",
-    "Excercise/Foundation_excercise/Excercise 05.md",
-    "Excercise/Foundation_excercise/Excercise 03.md",
-    "Foundation/Beginning Properties.md"
+    "Foundation/The Box Model/The Box by webDev Simplified.md",
+    "Foundation/The Box Model/Block and inline.md",
+    "Excercise/Flexbox/02-Flex-header.md",
+    "Foundation/Inspecting a Webpage/Chrome Dev tool Overview.md",
+    "Foundation/The Box Model/FlexBox.md",
+    "Excercise/Flexbox/01-center.md"
   ]
 }

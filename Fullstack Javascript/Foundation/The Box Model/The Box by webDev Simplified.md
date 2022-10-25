@@ -24,3 +24,42 @@
 	- [`margin-bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom)
 	- [`margin-left`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left)
 
+
+## Gap
+`gap` CSS property sets the gaps between rows and columns shorthand for row-gaps and columns-gap.
+
+syntax:
+```css
+
+/* One <length> value */
+gap: 20px;
+gap: 1em;
+gap: 3vmin;
+gap: 0.5cm;
+
+/* One <percentage> value */
+gap: 16%;
+gap: 100%;
+
+/* Two <length> values */
+gap: 20px 10px;
+gap: 1em 0.5em;
+gap: 3vmin 2vmax;
+gap: 0.5cm 2mm;
+
+/* One or two <percentage> values */
+gap: 16% 100%;
+gap: 21px 82%;
+
+/* calc() values */
+gap: calc(10% + 20px);
+gap: calc(20px + 10%) calc(10% - 5px);
+
+/* Global values */
+gap: inherit;
+gap: initial;
+gap: revert;
+gap: revert-layer;
+gap: unset;
+
+```

@@ -15,7 +15,7 @@ We turn any container into flexbox by the syntax below:
 The syntax belows helps sets all the child div inside the container into flexbox.
 
 ```css
-.flex-cointainer{
+.flex-cointainer-item{
 	flex: 1;
 }
 ```
