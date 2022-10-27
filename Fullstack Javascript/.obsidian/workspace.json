@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b2c12f1f1f1f4ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excercise/Flexbox/06-flexing layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "3f11c99f3c22164b",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excercise/Flexbox/05-flex modal.md",
+                "file": "Excercise/Flexbox/06-flexing layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excercise/Flexbox/05-flex modal.md",
+                "file": "Excercise/Flexbox/06-flexing layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excercise/Flexbox/05-flex modal.md"
+                "file": "Excercise/Flexbox/06-flexing layout.md"
               }
             }
           }
@@ -165,10 +178,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a681afaf7e86defa",
+  "active": "5b2c12f1f1f1f4ee",
   "lastOpenFiles": [
-    "Excercise/Flexbox/04-flex information.md",
     "Excercise/Flexbox/05-flex modal.md",
+    "Excercise/Flexbox/04-flex information.md",
     "Excercise/Flexbox/03-flex-header-2.md",
     "Foundation/The Box Model/Writing mode.md",
     "Foundation/The Box Model/The Box by webDev Simplified.md",
