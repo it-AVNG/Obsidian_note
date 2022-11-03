@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "928e9b46eb649ccd",
+    "id": "50182518461151b1",
     "type": "split",
     "children": [
       {
-        "id": "b9dac2d8db58361a",
+        "id": "aa5a961fef26df50",
         "type": "tabs",
         "children": [
           {
-            "id": "9c3da8a45214c83c",
+            "id": "e067d8070184bad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REGEX-revisit.md",
+                "file": "NeoVim setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1c3f1b4b1f037a74",
+    "id": "ddb56d84041e5505",
     "type": "split",
     "children": [
       {
-        "id": "9ed72a58d63448ae",
+        "id": "06514062aceb605b",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a76f2e348ef577",
+            "id": "01536cc2a2cb7748",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "6a53de129e1f4767",
+            "id": "1bd4b4cf1823c3a6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "d68ca87e90994ee3",
+            "id": "a14c03764af48fae",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,24 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "3f11c99f3c22164b",
+    "id": "da9b4e609da6fb5c",
     "type": "split",
     "children": [
       {
-        "id": "af50ac7b3cc0ea69",
+        "id": "b2da82b944377c3e",
         "type": "tabs",
         "children": [
           {
-            "id": "71b03447d4641b5a",
+            "id": "358b39493c6a1030",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REGEX-revisit.md",
+                "file": "NeoVim setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +98,19 @@
             }
           },
           {
-            "id": "c198af230a819f3e",
+            "id": "9f1ba8dbe21e2274",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REGEX-revisit.md",
+                "file": "NeoVim setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4e2f7b574d34815b",
+            "id": "6d4bbdf058a31199",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,34 +121,22 @@
             }
           },
           {
-            "id": "71b658c366b341a7",
+            "id": "3dded1a465ae991d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "REGEX-revisit.md"
+                "file": "NeoVim setup.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "9c3da8a45214c83c",
-  "lastOpenFiles": [
-    "REGEX-revisit.md",
-    "().md",
-    "[String.md",
-    "Foundation/javascript.md",
-    "Foundation/my portfolio.md",
-    "Excercise/Flexbox/01-center.md",
-    "Farm-to-cup.md",
-    "2022-10-28.md",
-    "Excercise/Flexbox/06-flexing layout.md",
-    "Excercise/Flexbox/05-flex modal.md"
-  ]
+  "active": "01536cc2a2cb7748",
+  "lastOpenFiles": []
 }
